@@ -1,0 +1,18 @@
+{
+  "name": "customer_assignment",
+  "version": "1.0.0",
+  "description": "A test app for me to build things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Anil",
+  "license": "ISC",
+  "dependencies": {
+    "customer-coding": "^1.0.1",
+    "express": "^4.16.4",
+    "npm": "^6.9.0",
+    "search-distance": "^1.0.1"
+  }
+}
